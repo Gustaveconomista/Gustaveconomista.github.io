@@ -13,7 +13,7 @@ I am a Ph.D. student at <a href="https://epge.fgv.br/pt/pos-graduacao/doutorado-
 ### Contact
 
 **E-mail:** gustavo.henrique@ufpe.br  
-**Social Media:** <a href="https://www.linkedin.com/in/gustavo-henrique-pedroso-de-oliveira-321697158/" target="_blank">LinkedIn</a>  
+**Social Media:** **<a href="https://www.linkedin.com/in/gustavo-henrique-pedroso-de-oliveira-321697158/" target="_blank">LinkedIn</a>**  
 **<a href="https://github.com/Gustaveconomista" target="_blank">GitHub</a>**
 
 ### Teaching
