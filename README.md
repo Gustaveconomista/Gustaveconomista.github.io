@@ -22,5 +22,5 @@ CPANPEC: Macroeconomics
 
 ### Research
 #### Working in Progress
-
-**Effects of the Minimum Wage on the Labor Market: New Evidence from State Wage Floors** with Paulo Vaz and Carlos Corseuil
+https://www.dropbox.com/home?_tk=web_left_nav_bar&di=left_nav&preview=Paper___State_Wage_Floors.pdf
+**<a href="https://www.dropbox.com/home?_tk=web_left_nav_bar&di=left_nav&preview=Paper___State_Wage_Floors.pdf" target="_blank">Effects of the Minimum Wage on the Labor Market: New Evidence from State Wage Floors</a>** with Paulo Vaz and Carlos Corseuil
