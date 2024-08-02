@@ -2,7 +2,7 @@
 
 I am a Ph.D. student at <a href="https://epge.fgv.br/pt/pos-graduacao/doutorado-mestrado/descricao" target="_blank">Brazilian School of Economics and Finance FGV EPGE</a>. My research interest are in Labor and Development Economics.
 
-**<a href="https://www.dropbox.com/preview/CV/CV___Gustavo_Henrique.pdf?context=content_suggestions&role=personal" target="_blank">CV</a>** (Portuguese version - <a href="http://lattes.cnpq.br/8605662544752279" target="_blank">Lattes</a>)
+**<a href="https://drive.google.com/file/d/1dlrn_bgvMuWrPQlfcfD4hCbwNWsc8MyG/view?usp=sharing" target="_blank">CV</a>** (Portuguese version - <a href="http://lattes.cnpq.br/8605662544752279" target="_blank">Lattes</a>)
 
 ### Education
 
@@ -23,4 +23,4 @@ CPANPEC: Macroeconomics
 ### Research
 #### Working in Progress
 
-**<a href="https://www.dropbox.com/home?_tk=web_left_nav_bar&di=left_nav&preview=Paper___State_Wage_Floors.pdf" target="_blank">Effects of the Minimum Wage on the Labor Market: New Evidence from State Wage Floors</a>** with Paulo Vaz and Carlos Corseuil
+**<a href="https://drive.google.com/file/d/15Yf1NfDGWwu-ldJaRC8BerDN-iOFT2T0/view?usp=sharing" target="_blank">Effects of the Minimum Wage on the Labor Market: New Evidence from State Wage Floors</a>** with Paulo Vaz and Carlos Corseuil
