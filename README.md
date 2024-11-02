@@ -2,7 +2,7 @@
 
 I am a Ph.D. student at <a href="https://epge.fgv.br/pt/pos-graduacao/doutorado-mestrado/descricao" target="_blank">Brazilian School of Economics and Finance FGV EPGE</a>. My research interest are in Labor and Development Economics.
 
-**<a href="https://drive.google.com/file/d/1ZSgI92appFEtDQI_gX-cUqNEXEN6QT-p/view?usp=sharing" target="_blank">CV</a>** (Portuguese version - <a href="http://lattes.cnpq.br/8605662544752279" target="_blank">Lattes</a>)
+**<a href="https://drive.google.com/file/d/102yIOFDHL__P3KDbRltN1mnPR-sl3tlK/view?usp=sharing" target="_blank">CV</a>** / <a href="https://buscatextual.cnpq.br/buscatextual/visualizacv.do" target="_blank">Lattes</a>)
 
 ### Education
 
