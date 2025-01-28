@@ -18,7 +18,7 @@ I am a Ph.D. student at <a href="https://epge.fgv.br/pt/pos-graduacao/doutorado-
 
 ### Teaching
 
-CPANPEC: Macroeconomics
+CPANPEC: Macroeconomics (2022-2024)
 
 ### Research
 #### Working in Progress
