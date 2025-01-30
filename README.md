@@ -1,6 +1,6 @@
 ## Bio
 
-I am a Ph.D. student at <a href="https://epge.fgv.br/pt/pos-graduacao/doutorado-mestrado/descricao" target="_blank">Brazilian School of Economics and Finance FGV EPGE</a>. My research interest are in Labor and Development Economics.
+I am a Ph.D. student at <a href="https://epge.fgv.br/pt/pos-graduacao/doutorado-mestrado/descricao" target="_blank">Brazilian School of Economics and Finance FGV EPGE</a>. My research interest are in Labor Economics and Political Economy.
 
 **<a href="https://drive.google.com/file/d/102yIOFDHL__P3KDbRltN1mnPR-sl3tlK/view?usp=sharing" target="_blank">CV</a>** / **<a href="http://lattes.cnpq.br/8605662544752279" target="_blank">Lattes</a>**
 
