@@ -21,6 +21,16 @@ I am a Ph.D. student at <a href="https://epge.fgv.br/pt/pos-graduacao/doutorado-
 CPANPEC: Macroeconomics (2022-2024)
 
 ### Research
-#### Working in Progress
+#### Working Papers
 
 **Effects of the Minimum Wage on the Labor Market: New Evidence from State Wage Floors** with Paulo Vaz and Carlos Corseuil
+
+**Voting for Managers: Selection Methods in Public Schools** with Guilherme Cota, Andrea Flores and Marcos Salgado
+
+#### Working Projects
+
+**Family Business: Political Clans and the Provision of Public Goods** with Arnóbio Chagas
+
+**Wage Floors and Labor Market Power** with Marcelo Sant’Anna
+
+**The Impact of Extended Maternity Leave on Fertility Decisions: Evidence from Brazil’s Empresa Cidadã Program**
