@@ -23,14 +23,14 @@ CPANPEC: Macroeconomics (2022-2024)
 ### Research
 #### Working Papers
 
-**Effects of the Minimum Wage on the Labor Market: New Evidence from State Wage Floors** with Paulo Vaz and Carlos Corseuil
+**<a href="https://drive.google.com/file/d/1bYOYcPh78m91IQhCZ0pspNzxWsyKpP1Z/view?usp=drive_link" target="_blank">Effects of the Minimum Wage on the Labor Market: New Evidence from State Wage Floors** with Paulo Vaz and Carlos Corseuil
 
-**Voting for Managers: Selection Methods in Public Schools** with Guilherme Cota, Andrea Flores and Marcos Salgado
+**<a href="https://drive.google.com/file/d/1gpC22hLYtbWXXCStkZ5Mw-9pzJo4OqeP/view?usp=drive_link" target="_blank">Voting for Managers: Selection Methods in Public Schools** with Guilherme Cota, Andrea Flores and Marcos Salgado
 
 #### Working Projects
 
-**Family Business: Political Clans and the Provision of Public Goods** with Arnóbio Chagas
+**<a href="https://drive.google.com/file/d/1lt3po2YPR9-MFrAF8BJnlfHbf0mCoxmn/view?usp=drive_link" target="_blank">Family Business: Political Clans and the Provision of Public Goods** with Arnóbio Chagas
+
+**<a href="https://drive.google.com/file/d/1-O5L4MG0NARuz7av5dnu10MbiVsriHO9/view?usp=drive_link" target="_blank">Metro Construction and Housing Prices: Evidence from Rio de Janeiro** with Sophie Mathes
 
 **Wage Floors and Labor Market Power** with Marcelo Sant’Anna
-
-**The Impact of Extended Maternity Leave on Fertility Decisions: Evidence from Brazil’s Empresa Cidadã Program**
