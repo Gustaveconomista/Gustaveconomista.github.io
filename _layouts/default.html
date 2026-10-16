@@ -1,0 +1,34 @@
+<!DOCTYPE html> <!-- Declares an HTML5 document -->
+<html lang="en"> <!-- Root element, page language is English -->
+<head> <!-- Start of page metadata -->
+  <meta charset="utf-8"> <!-- Use UTF-8 so accents render correctly -->
+  <meta name="viewport" content="width=device-width, initial-scale=1"> <!-- Make the page responsive on phones -->
+  <title>{% if page.title and page.url != "/" %}{{ page.title }} | {% endif %}{{ site.title }}</title> <!-- Browser tab title -->
+  <meta name="description" content="{{ site.description }}"> <!-- Description used by search engines -->
+  <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}"> <!-- Load the site stylesheet -->
+</head> <!-- End of page metadata -->
+<body> <!-- Start of visible page -->
+  <header class="site-header"> <!-- Top banner with name and menu -->
+    <div class="container"> <!-- Centers the header content -->
+      <a class="site-title" href="{{ '/' | relative_url }}">{{ site.title }}</a> <!-- Site name linking to Home -->
+      <p class="site-subtitle">{{ site.description }}</p> <!-- Subtitle under the name -->
+      <nav class="site-nav" aria-label="Main menu"> <!-- Top navigation menu -->
+        {% for item in site.data.navigation %} <!-- Loop over every menu entry in _data/navigation.yml -->
+        <a href="{{ item.url | relative_url }}"{% if page.url == item.url %} class="active"{% endif %}>{{ item.title }}</a> <!-- Menu link, highlighted on the current page -->
+        {% endfor %} <!-- End of menu loop -->
+      </nav> <!-- End of navigation menu -->
+    </div> <!-- End of header container -->
+  </header> <!-- End of header -->
+
+  <main class="container content"> <!-- Single main column, as in the reference site -->
+    <h1 class="page-title">{{ page.title }}</h1> <!-- Title of the current page -->
+    {{ content }} <!-- Page content coming from each Markdown file -->
+  </main> <!-- End of main column -->
+
+  <footer class="site-footer"> <!-- Footer area -->
+    <div class="container"> <!-- Centers the footer content -->
+      <p>Page updated: {{ site.time | date: "%B %Y" }}</p> <!-- Build date, like "Page updated" in the reference -->
+    </div> <!-- End of footer container -->
+  </footer> <!-- End of footer -->
+</body> <!-- End of visible page -->
+</html> <!-- End of document -->

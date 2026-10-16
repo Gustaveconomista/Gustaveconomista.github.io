@@ -1,0 +1,114 @@
+:root { /* Global color and size variables */
+  --accent: #1a4d8f; /* Main accent color (links, active menu) */
+  --text: #222222; /* Body text color */
+  --muted: #666666; /* Secondary text color */
+  --line: #e2e2e2; /* Light border color */
+  --header-bg: #f5f7fa; /* Header background color */
+  --width: 860px; /* Maximum width of the content column */
+} /* End of variables */
+
+* { box-sizing: border-box; } /* Include padding and border in element widths */
+
+body { /* Whole page */
+  margin: 0; /* Remove default browser margin */
+  font-family: "Helvetica Neue", Arial, sans-serif; /* Clean sans-serif font */
+  font-size: 17px; /* Comfortable reading size */
+  line-height: 1.6; /* Spacing between lines */
+  color: var(--text); /* Body text color */
+  background: #ffffff; /* White background */
+} /* End of body */
+
+a { color: var(--accent); text-decoration: none; } /* Links use the accent color without underline */
+a:hover { text-decoration: underline; } /* Underline links on mouse over */
+
+.container { /* Centered column wrapper */
+  max-width: var(--width); /* Limit the column width */
+  margin: 0 auto; /* Center the column */
+  padding: 0 20px; /* Side padding for small screens */
+} /* End of container */
+
+.site-header { /* Top banner */
+  background: var(--header-bg); /* Light background */
+  border-bottom: 1px solid var(--line); /* Thin line separating header and content */
+  padding: 28px 0 0; /* Space above the title, none below so the menu touches the line */
+} /* End of header */
+
+.site-title { /* Site name */
+  display: block; /* Put the name on its own line */
+  font-size: 2rem; /* Large name */
+  font-weight: 700; /* Bold name */
+  color: var(--text); /* Dark text instead of link color */
+} /* End of site title */
+.site-title:hover { text-decoration: none; } /* No underline on the site name */
+
+.site-subtitle { /* Subtitle below the name */
+  margin: 2px 0 18px; /* Small gap above, larger gap below */
+  color: var(--muted); /* Gray text */
+} /* End of subtitle */
+
+.site-nav { /* Horizontal menu */
+  display: flex; /* Place menu items in a row */
+  flex-wrap: wrap; /* Allow wrapping on narrow screens */
+  gap: 4px; /* Space between menu items */
+} /* End of menu */
+
+.site-nav a { /* Each menu item */
+  padding: 10px 16px; /* Clickable area */
+  color: var(--text); /* Dark text */
+  border-bottom: 3px solid transparent; /* Reserve space for the active underline */
+} /* End of menu item */
+.site-nav a:hover { text-decoration: none; border-bottom-color: var(--line); } /* Soft underline on hover */
+.site-nav a.active { color: var(--accent); border-bottom-color: var(--accent); font-weight: 600; } /* Highlight current page */
+
+.content { padding-top: 24px; padding-bottom: 48px; } /* Vertical spacing of the main column */
+
+.page-title { /* Page heading (Home, CV, Research, Teaching) */
+  font-size: 1.8rem; /* Heading size */
+  margin: 0 0 16px; /* Space below the heading */
+} /* End of page title */
+
+h2 { /* Section headings such as Working Papers */
+  font-size: 1.35rem; /* Section heading size */
+  margin: 32px 0 12px; /* Space around the heading */
+  padding-bottom: 4px; /* Space above the border */
+  border-bottom: 1px solid var(--line); /* Line under the heading */
+} /* End of h2 */
+
+.home { /* Home page layout */
+  display: flex; /* Picture and text side by side */
+  gap: 28px; /* Space between picture and text */
+  align-items: flex-start; /* Align both to the top */
+} /* End of home layout */
+.home img { /* Profile picture */
+  width: 220px; /* Fixed picture width */
+  height: auto; /* Keep proportions */
+  border-radius: 6px; /* Slightly rounded corners */
+  flex-shrink: 0; /* Never shrink the picture */
+} /* End of picture */
+
+.paper { /* One research entry */
+  margin: 0 0 24px; /* Space between entries */
+} /* End of paper */
+.paper-title { font-weight: 700; } /* Bold paper title */
+.paper-meta { color: var(--muted); } /* Coauthors and status in gray */
+.paper details { margin-top: 6px; } /* Space above the abstract toggle */
+.paper summary { cursor: pointer; color: var(--accent); } /* Clickable "Abstract" toggle */
+.paper details p { margin: 8px 0 0; } /* Abstract paragraph spacing */
+
+.cv-frame { /* Embedded CV viewer */
+  width: 100%; /* Use the full column width */
+  height: 800px; /* Tall enough to read the CV */
+  border: 1px solid var(--line); /* Thin border around the viewer */
+} /* End of CV viewer */
+
+.site-footer { /* Footer area */
+  border-top: 1px solid var(--line); /* Line above the footer */
+  padding: 16px 0; /* Vertical spacing */
+  color: var(--muted); /* Gray text */
+  font-size: 0.85rem; /* Small text */
+} /* End of footer */
+
+@media (max-width: 640px) { /* Rules for phones */
+  .home { flex-direction: column; } /* Stack picture above the text */
+  .home img { width: 160px; } /* Smaller picture on phones */
+} /* End of phone rules */

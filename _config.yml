@@ -1,4 +1,11 @@
-theme: jekyll-theme-minimal
+# Site title shown in the header and in the browser tab
 title: Gustavo de Oliveira
+# Short subtitle shown below the title in the header
 description: Econ Ph.D. Student, FGV/EPGE
+# Profile picture used on the Home page
 logo: /assets/img/profile.jpg
+# Built-in Jekyll Markdown engine (default on GitHub Pages)
+markdown: kramdown
+# Files that must not be published as pages (README is only for the repository)
+exclude:
+  - README.md

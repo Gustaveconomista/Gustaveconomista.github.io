@@ -1,0 +1,12 @@
+# Top menu entry that points to the Home page
+- title: Home
+  url: /
+# Top menu entry that points to the CV page
+- title: CV
+  url: /cv/
+# Top menu entry that points to the Research page
+- title: Research
+  url: /research/
+# Top menu entry that points to the Teaching page
+- title: Teaching
+  url: /teaching/
