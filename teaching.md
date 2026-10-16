@@ -4,4 +4,4 @@ title: Teaching
 permalink: /teaching/
 ---
 
-CPANPEC: Macroeconomics
+CPANPEC: Macroeconomics (2022-2024)
