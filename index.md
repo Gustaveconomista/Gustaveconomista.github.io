@@ -4,9 +4,9 @@ title: Home
 permalink: /
 ---
 
-<div class="home">
+<div class="home" markdown="1">
   <img src="{{ site.logo | relative_url }}" alt="Gustavo de Oliveira">
-  <div>
+  <div markdown="1">
 
 I am a Ph.D. student at <a href="https://epge.fgv.br/pt/pos-graduacao/doutorado-mestrado/descricao" target="_blank">Brazilian School of Economics and Finance FGV EPGE</a>, currently visiting Columbia. My research interests are in Labor Economics, Urban Economics, Economics of Education and Political Economy.
 
