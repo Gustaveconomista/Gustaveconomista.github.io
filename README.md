@@ -29,8 +29,8 @@ CPANPEC: Macroeconomics (2022-2024)
 
 #### Working Projects
 
-**<a href="https://drive.google.com/file/d/1lt3po2YPR9-MFrAF8BJnlfHbf0mCoxmn/view?usp=drive_link" target="_blank">Family Business: Political Clans and the Provision of Public Goods</a>** with Arnóbio Chagas
+**Family Business: Political Clans and the Provision of Public Goods</a>** with Arnóbio Chagas
 
-**<a href="https://drive.google.com/file/d/1-O5L4MG0NARuz7av5dnu10MbiVsriHO9/view?usp=drive_link" target="_blank">Metro Construction and Housing Prices: Evidence from Rio de Janeiro</a>** with Sophie Mathes
+**Metro Construction and Housing Prices: Evidence from Rio de Janeiro</a>** with Sophie Mathes
 
 **Wage Floors and Labor Market Power** with Marcelo Sant’Anna
