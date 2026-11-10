@@ -25,7 +25,7 @@ CPANPEC: Macroeconomics (2022-2024)
 
 **<a href="https://drive.google.com/file/d/1bYOYcPh78m91IQhCZ0pspNzxWsyKpP1Z/view?usp=drive_link" target="_blank">Effects of the Minimum Wage on the Labor Market: New Evidence from State Wage Floors</a>** with Paulo Vaz and Carlos Corseuil
 
-**<a href="https://drive.google.com/file/d/1gpC22hLYtbWXXCStkZ5Mw-9pzJo4OqeP/view?usp=drive_link" target="_blank">Voting for Managers: Selection Methods in Public Schools</a>** with Guilherme Cota, Andrea Flores and Marcos Salgado
+**<a href="https://drive.google.com/file/d/1F7IBe0Shfsr-_YE2a7ROAmEBJPH1nrK8/view?usp=drive_link" target="_blank">Voting for Managers: Selection Methods in Public Schools</a>** with Guilherme Cota, Andrea Flores and Marcos Salgado
 
 #### Working Projects
 
